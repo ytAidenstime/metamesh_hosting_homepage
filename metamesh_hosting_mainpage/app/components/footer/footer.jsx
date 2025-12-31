@@ -4,7 +4,7 @@ export default function Footer() {
     return <div className="footer-wrapper">
         <div className="top-wrapper">
             <img src="logo.png" alt="Logo"/>
-            <span>@ 2025 Copyright by MetaMesh.ca and Aiden Smith</span>
+            <span>© 2025 Copyright by MetaMesh.ca and Aiden Smith</span>
         </div>
         <div className="middle-content">
             <span>Socials</span>
